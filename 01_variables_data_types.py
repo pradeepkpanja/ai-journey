@@ -8,6 +8,6 @@ print(type(message))  # <class 'str'>
 print(type(slept_well))  # <class 'bool'>
 
 # Print the values of the variables
-print("My favorite number is:", my_fav_number)
+print("My favorite number is:", my_fav_number, "and its type is", type(my_fav_number))
 print("Message:", message)
 print("Did I sleep well?", slept_well)
